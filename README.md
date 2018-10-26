@@ -8,6 +8,9 @@
 
 Arduino BMP280 (temperature, pressure, altitude) sensor library.
 
+![BMP280](doc/bmp280.jpg)
+
+
 ## USAGE
 
 Make sure to set the correct I2C or SPI values (addresses, etc.).  
