@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\alex\\.platformio\\penv\\Scripts;C:\\Users\\alex\\.platformio\\penv;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Python27\\;C:\\Python27\\Scripts;C:\\Python36\\;C:\\Python36\\Scripts\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\LLVM\\bin;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\alex\\AppData\\Local\\Microsoft\\WindowsApps;C:\\cygwin64\\bin;C:\\Program Files\\Heroku\\bin;C:\\Users\\alex\\AppData\\Local\\Microsoft\\WindowsApps;D:\\app_data\\Android\\SDK\\platform-tools\\;D:\\app_data\\Android\\SDK\\tools\\;C:\\0.apps_portables\\uncrustify-0.67-win64\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Python27\\;C:\\Python27\\Scripts;C:\\Python36\\;C:\\Python36\\Scripts\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\LLVM\\bin;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\alex\\AppData\\Local\\Microsoft\\WindowsApps;C:\\cygwin64\\bin;C:\\Program Files\\Heroku\\bin;C:\\Users\\alex\\AppData\\Local\\Microsoft\\WindowsApps;D:\\app_data\\Android\\SDK\\platform-tools\\;D:\\app_data\\Android\\SDK\\tools\\;C:\\0.apps_portables\\uncrustify-0.67-win64\\",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
